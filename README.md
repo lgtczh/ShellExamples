@@ -3,6 +3,8 @@
 # Classic Shell Scripting, by Arnold Robbins
   
 [![Classic Shell Scripting, by Arnold Robbins](http://akamaicovers.oreilly.com/images/9780596005955/cat.gif)](https://www.safaribooksonline.com/library/view/title/0596005954//)
+
+https://resources.oreilly.com/examples/9780596005955.git
   
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
   
